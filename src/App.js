@@ -14,7 +14,7 @@ export default function App() {
       </HOC1>
 
       <HOC2>
-        <p>Here is HOC1...</p>
+        <p>Here is HOC2...</p>
       </HOC2>
     </div>
   );
